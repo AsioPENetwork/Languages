@@ -20,6 +20,8 @@
     "command.description.fl": "Toggle your flight!",
 
     "tasks.notify.bar": "§7Name§8: §e{0}§8 - §7Money§8: §e{1} §8- §7Location§8: §r{2}",
+    "kits.food.name": "§2§lFree Food",
+    "kits.food.lore": "§d§lFree Food §b§lBra",
     
     "ui.title.fly": "§bThis is a fly UI",
     "ui.description.fly": "Click a button to toggle your flight!",
