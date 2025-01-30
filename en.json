@@ -1,0 +1,11 @@
+{
+  "name": "English",
+  "localeCode": "en_US",
+  "emoji": "🇰🇵",
+  "prefix": "§d§lAsio§b§lPE§r §r§f§7",
+  "contributors": ["vNoaaah"],
+  "values": {
+    "Example.Key": "{PREFIX}This is a Example Language Key",
+    "Example.second.Key": "{PREFIX}This is a Example &aColor&bfull &7Key"
+  }
+}
