@@ -8,5 +8,6 @@
     "Example.Key": "{PREFIX}This is a Example Language Key",
     "Example.second.Key": "{PREFIX}This is a Example &aColor&bfull &7Key",
     "feed.success": "{PREFIX} §7Your §dHunger §7has been §bfilled §7up",
+    "not.ingame": "{PREFIX} §cPlease go ingame biatch",
   }
 }
