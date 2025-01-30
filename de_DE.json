@@ -21,6 +21,8 @@
 
   
     "tasks.notify.bar": "§7Name§8: §e{0}§8 - §7Geld§8: §e{1} §8- §7Position§8: §r{2}",
+    "kits.food.name": "§2§lGratis Essen",
+    "kits.food.lore": "§d§lGratis Essen §b§lBra",
     
     "ui.title.fly": "§bThis is a fly UI",
     "ui.description.fly": "Click a button to toggle your flight!",
