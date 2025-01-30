@@ -8,6 +8,8 @@
   "values": {
     "raw.none": "§cNone",
 
+    "not.ingame": "§cPlease go Ingame brother",
+
     "time.day": "Day",
     "time.night": "Night",
 
