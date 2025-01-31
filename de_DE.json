@@ -11,6 +11,6 @@
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 
-		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7gesetzt"
+		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7namens §d{HOME} §7gesetzt"
 	}
 }
