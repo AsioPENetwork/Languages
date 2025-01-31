@@ -1,40 +1,14 @@
 {
-  "name": "Deutsch",
-  "prefix": "§bMyServer §8>§7 ",
-  "locale": "de_DE",
-  "shortcut": "de",
-  "contributors": ["vNoaaah"],
-  
-  "values": {
-    "raw.none": "§cNone",
+	"PREFIX": "§cRush§4Unity §8» §7",
+	"localeCode": "de_DE",
+	"name": "Deutsch",
 
-    "not.ingame": "§cPlease go Ingame brother",
-
-    "time.day": "Day",
-    "time.night": "Night",
-
-    "message.fly.success": "{PREFIX}§aYou have successfully toggled your flight!",
-    "message.fly.success.other": "{PREFIX}§aYou have successfully toggled the flight of§b {0}§a!",
-    "message.feed.success": "{PREFIX}§aYour Hunger has been filled up!",
-    
-    "command.description.fl": "Toggle your flight!",
-
-  
-    "tasks.notify.bar": "§7Name§8: §e{0}§8 - §7Geld§8: §e{1} §8- §7Position§8: §r{2}",
-    "kits.food.name": "§2§lGratis Essen",
-    "kits.food.lore": "§d§lGratis Essen §b§lBra",
-    
-    "ui.title.fly": "§bThis is a fly UI",
-    "ui.description.fly": "Click a button to toggle your flight!",
-    "ui.button.confirm": "§aEnable",
-    "ui.button.cancel": "§cDisable",
-
-    "popup.welcome": "§aWelcome to the server§b {0}§a, you got§6 {1}§a start coins!",
-
-    "broadcasts": [
-      "§aStar this repository!",
-      "§bFollow J1b1x on github!",
-      "§5You like men!"
-    ]
-  }
+	"values": {
+		"languageapi.reloaded": "§r§aThe §eLanguageAPI §awas successfully reloaded§7!",
+		"languageapi.ui.title.select": "§eSelect your Language",
+		"languageapi.ui.text.select": "§eSelect your Language§7!",
+		"languageapi.updated": "§eYou have updated your language successfully§7!",
+		
+		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!"
+	}
 }
