@@ -9,6 +9,8 @@
 		"languageapi.ui.text.select": "§eSelect your Language§7!",
 		"languageapi.updated": "{PREFIX}§7Du hast deine Sprache aktualisiert§7!",
 		
-		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!"
+		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
+
+		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7gesetzt",
 	}
 }
