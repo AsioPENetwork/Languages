@@ -1,5 +1,5 @@
 {
-	"PREFIX": "§d§lAsio§b§lPE §8» §7",
+	"PREFIX": "§d§lAsio§b§lPE §8» §r§7",
 	"localeCode": "de_AT",
 	"name": "Österreichisch",
 
@@ -11,6 +11,7 @@
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 
-		"skyblock.home.set": "{PREFIX}§7Du host dei §bZhaus §7gsetzt"
+		"skyblock.home.set": "{PREFIX}§7Du host dei §bZhaus §7gsetzt",
+		"skyblock.taskbar.notify": "{PREFIX}§7"
 	}
 }
