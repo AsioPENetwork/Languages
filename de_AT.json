@@ -12,6 +12,6 @@
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 
 		"skyblock.home.set": "{PREFIX}§7Du host dei §bZhaus §7gsetzt",
-		"skyblock.taskbar.notify": "{PREFIX}§7Deppata"
+		"skyblock.taskbar.notify": "{PREFIX}§7Dei Name§8: §e{NAME} §8- §7Göd§8: §e{MONEY} §8- §7Dei Position§8: §e{POS} §8- §7Wöd§8: §e{WORLD}"
 	}
 }
