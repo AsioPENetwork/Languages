@@ -17,6 +17,6 @@
 		"skyblock.helpui.desc": "\n§cKommt sehr Bald",
 		"skyblock.helpui.btn.ok": "§aOkay",
 		"skyblock.spawnholo.title": "§l§aWillkommen auf dem Server!",
-		"skyblock.spawnholo.desc": "&7Viel Spaß &e{PLAYER}"
+		"skyblock.spawnholo.desc": "§7Viel Spaß §e{PLAYER}\n§a{TIME}"
 	}
 }
