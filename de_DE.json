@@ -15,6 +15,8 @@
 		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Geld§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7Welt§8: §e{WORLD}",
 		"skyblock.helpui.title": "{PREFIX}§fHilfe UI",
 		"skyblock.helpui.desc": "\n§cKommt sehr Bald",
-		"skyblock.helpui.btn.ok": "§aOkay"
+		"skyblock.helpui.btn.ok": "§aOkay",
+		"skyblock.spawnholo.title": "§l§aWillkommen auf dem Server!",
+		"skyblock.spawnholo.desc": "&7Viel Spaß &e{PLAYER}"
 	}
 }
