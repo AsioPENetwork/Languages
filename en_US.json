@@ -25,6 +25,14 @@
 		"lobby.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
 		"lobby.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
 
+		"lobby.dsgvoui.title": "§aData Protection",
+		"lobby.dsgvoui.content": "§r\n§7Click §aAccept§7 ok?",
+		"lobby.dsgvoui.acceptbtn": "§aAccept",
+		"lobby.dsgvoui.declinebtn": "§cDecline\n§7if you click this you get kicked",
+
+		"lobby.dsgvoui.accepted": "{PREFIX}§7Well§8, §7your Account has been registered to the Database",
+		"lobby.dsgvoui.kick": "§8\n{PREFIX}§cPlease Click on §aAccept§r!\n§5",
+
 		"lobby.items.compass.name": "§c§lNavigator",
 		"lobby.items.clock.name": "§d§lGadgets",
 		"lobby.items.amethyst_shard.name": "§b§lSettings",
