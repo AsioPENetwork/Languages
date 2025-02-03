@@ -16,6 +16,9 @@
 		"lobby.settings.ui.mobile.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bMobile §fForms",
 		"lobby.navigator.disabled": "§cDisabled",
 		"lobby.navigator.enabled": "§aEnabled",
+		"lobby.navigator.online.maintenance": "§7Server is §aOnline§7 but in §cMaintenance §7Mode§7.!",
+		"lobby.navigator.offline": "{PREFIX}§7Server is §cOffline",
+		"lobby.navigator.online": "{PREFIX}§7Server is §aOnline§7!.",
 		
 		"skyblock.home.set": "{PREFIX}§7You set your Home"
 	}
