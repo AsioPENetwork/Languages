@@ -19,6 +19,9 @@
 		"lobby.navigator.online.maintenance": "§7Server is §aOnline§7 but in §cMaintenance §7Mode§7.!",
 		"lobby.navigator.offline": "{PREFIX}§7Server is §cOffline",
 		"lobby.navigator.online": "{PREFIX}§7Server is §aOnline§7!.",
+
+		"lobby.maintenance.staffonline": "§cServer is now only for the Staff online",
+		"lobby.maintenance.online": "§7Server is now Online for all players",
 		
 		"skyblock.home.set": "{PREFIX}§7You has set your §bHome §7called §d{HOME}§7...",
 		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Money§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7World§8: §e{WORLD}",
