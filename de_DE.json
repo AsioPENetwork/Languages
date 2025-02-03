@@ -26,6 +26,11 @@
 		"lobby.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
 		"lobby.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
 
+		"lobby.settings.uimain.navigator": "§c§lNavigator§r §8| §f§lSettings",
+		"lobby.settings.uimain.language": "",
+
+		"lobby.settings.uinavi.content": "",
+
 		"lobby.dsgvoui.title": "{PREFIX}§aData Protection",
 		"lobby.dsgvoui.content": "§r\n§7Click §aAccept§7 ok?",
 		"lobby.dsgvoui.acceptbtn": "§aAccept",
