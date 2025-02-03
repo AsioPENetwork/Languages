@@ -12,6 +12,8 @@
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 		"lobby.join.welcome": "{PREFIX}§7Welcome back to the §d§lAction",
 		"lobby.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
+		"lobby.settings.ui.win10": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bWindows10 §fForms",
+		"lobby.settings.ui.mobile.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bMobile §fForms",
 
 		"skyblock.home.set": "{PREFIX}§7You set your Home"
 	}
