@@ -11,6 +11,11 @@
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 
+		"lobby.join.welcome": "{PREFIX}§7Willkommen zurück §f{NAME} §d§lAction",
+		"lobby.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
+		"lobby.settings.ui.win10.changed": "{PREFIX}§7Deine UIs werden nun als §dWin10 §fForms §7angezeigt",
+		"lobby.settings.ui.mobile.changed": "{PREFIX}§7Deine UIs werden nun als §bMobile §fForms §7angezeigt",
+
 		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7namens §d{HOME} §7gesetzt",
 		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Geld§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7Welt§8: §e{WORLD}",
 		"skyblock.helpui.title": "{PREFIX}§fHilfe UI",
