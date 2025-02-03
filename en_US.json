@@ -20,6 +20,12 @@
 		"lobby.navigator.offline": "{PREFIX}§7Server is §cOffline",
 		"lobby.navigator.online": "{PREFIX}§7Server is §aOnline§7!.",
 		
-		"skyblock.home.set": "{PREFIX}§7You set your Home"
+		"skyblock.home.set": "{PREFIX}§7You has set your §bHome §7called §d{HOME}§7...",
+		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Money§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7World§8: §e{WORLD}",
+		"skyblock.helpui.title": "{PREFIX}§fHelp UI",
+		"skyblock.helpui.desc": "\n§cCooming very soon",
+		"skyblock.helpui.btn.ok": "§aOkay",
+		"skyblock.spawnholo.title": "§l§aWelcome to the Server!",
+		"skyblock.spawnholo.desc": "§7Have Fun §e{PLAYER}\n§a{TIME}"
 	}
 }
