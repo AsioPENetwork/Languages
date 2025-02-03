@@ -26,7 +26,7 @@
 		"lobby.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
 		"lobby.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
 
-		"lobby.dsgvoui.title": "§aData Protection",
+		"lobby.dsgvoui.title": "{PREFIX}§aData Protection",
 		"lobby.dsgvoui.content": "§r\n§7Click §aAccept§7 ok?",
 		"lobby.dsgvoui.acceptbtn": "§aAccept",
 		"lobby.dsgvoui.declinebtn": "§cDecline\n§7if you click this you get kicked",
@@ -36,11 +36,11 @@
 
 		"lobby.items.compass.name": "§c§lNavigator",
 		"lobby.items.clock.name": "§d§lGadgets",
-		"lobby.items.amethyst_shard.name": "§b§lSettings",
+		"lobby.items.amethyst_shard.name": "§b§lEinstellungen",
 		
 
-		"lobby.maintenance.staffonline": "§cServer is now only for the Staff online",
-		"lobby.maintenance.online": "§7Server is now Online for all players",
+		"lobby.maintenance.staffonline": "{PREFIX}§cServer is now only for the Staff online",
+		"lobby.maintenance.online": "{PREFIX}§7Server is now Online for all players",
 
 		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7namens §d{HOME} §7gesetzt",
 		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Geld§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7Welt§8: §e{WORLD}",
