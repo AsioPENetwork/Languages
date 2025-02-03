@@ -24,6 +24,10 @@
 		"lobby.settings.uimain.content": "§fManage your Player Account",
 		"lobby.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
 		"lobby.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
+
+		"lobby.items.compass.name": "§c§lNavigator",
+		"lobby.items.clock.name": "§d§lGadgets",
+		"lobby.items.amethyst_shard.name": "§b§lSettings",
 		
 
 		"lobby.maintenance.staffonline": "§cServer is now only for the Staff online",
