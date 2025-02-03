@@ -14,7 +14,9 @@
 		"lobby.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
 		"lobby.settings.ui.win10.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bWindows10 §fForms",
 		"lobby.settings.ui.mobile.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bMobile §fForms",
-
+		"lobby.navigator.disabled": "§cDisabled",
+		"lobby.navigator.enabled": "§aEnabled",
+		
 		"skyblock.home.set": "{PREFIX}§7You set your Home"
 	}
 }
