@@ -20,6 +20,12 @@
 		"lobby.navigator.offline": "{PREFIX}§7Server is §cOffline",
 		"lobby.navigator.online": "{PREFIX}§7Server is §aOnline§7!.",
 
+		"lobby.settings.uimain.title": "§d§lSettings§r §8| §b§lMain",
+		"lobby.settings.uimain.content": "§fManage your Player Account",
+		"lobby.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
+		"lobby.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
+		
+
 		"lobby.maintenance.staffonline": "§cServer is now only for the Staff online",
 		"lobby.maintenance.online": "§7Server is now Online for all players",
 		
