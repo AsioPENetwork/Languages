@@ -10,6 +10,7 @@
 		"languageapi.updated": "{PREFIX}§7You have updated your language successfully§7!",
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
+		"lobby.join.welcome": "{PREFIX}§7Welcome back to the §d§lAction",
 
 		"skyblock.home.set": "{PREFIX}§7You set your Home"
 	}
