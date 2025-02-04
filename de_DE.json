@@ -55,6 +55,6 @@
 		"skyblock.spawnholo.title": "§l§aWillkommen auf dem Server!",
 		"skyblock.spawnholo.desc": "§7Viel Spaß §e{PLAYER}\n§a{TIME}",
 		"skyblock.ping.ms": "{PREFIX}§7Dein Ping ist §d{PING}§bms§8...",
-		"skyblock.set.day": "{PREFIX}§7Du hast die §bZeit §7auf §dTag §7gestellt",
+		"skyblock.set.day": "{PREFIX}§7Du hast die §bZeit §7auf §dTag §7gestellt"
 	}
 }
