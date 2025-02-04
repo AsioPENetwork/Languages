@@ -47,6 +47,8 @@
 		"skyblock.helpui.desc": "\n§cCooming very soon",
 		"skyblock.helpui.btn.ok": "§aOkay",
 		"skyblock.spawnholo.title": "§l§aWelcome to the Server!",
-		"skyblock.spawnholo.desc": "§7Have Fun §e{PLAYER}\n§a{TIME}"
+		"skyblock.spawnholo.desc": "§7Have Fun §e{PLAYER}\n§a{TIME}",
+		"skyblock.ping.ms": "{PREFIX}&7Your Ping is §d{PING}§bms",
+		"skyblock.set.day": "{PREFIX}§7You set the Time to §dDay§r",
 	}
 }
