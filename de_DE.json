@@ -10,7 +10,7 @@
 		"languageapi.updated": "{PREFIX}§7Du hast deine Sprache auf §d{NEW}§7 aktualisiert§7!",
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
-		"lobbysystem.servergui.maintenance"§: "{PREFIX}§7The Selected Server is curently in §cMaintenance Mode",
+		"lobbysystem.servergui.maintenance": "{PREFIX}§7The Selected Server is curently in §cMaintenance Mode",
 
 		"lobbysystem.join.welcome": "{PREFIX}§7Willkommen zurück §f{NAME} §d§lAction",
 		"lobbysystem.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
