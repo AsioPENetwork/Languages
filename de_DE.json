@@ -30,6 +30,8 @@
 		"lobbysystem.settings.uimain.navigator": "§c§lNavigator§r §8| §f§lSettings",
 		"lobbysystem.settings.uimain.language": "",
 
+		"lobbysystem.welcome.line1": "§7Willkommen §e{PLAYER}",
+
 		"lobbysystem.settings.uinavi.content": "",
 
 		"lobbysystem.dsgvoui.title": "{PREFIX}§aData Protection",
